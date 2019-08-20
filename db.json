@@ -1,0 +1,30 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "title": {
+        "en": "Testing flash message",
+        "es": "Mensage flash de prueba"
+      },
+      "body": {
+        "en": "Testing body message",
+        "es": "Mensage de prueba"
+      },
+      "message_type": "success",
+      "updated_at": "2019-08-14T17:27:52.120Z"
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Testing flash message",
+        "es": "Mensage flash de prueba"
+      },
+      "body": {
+        "en": "Testing body message",
+        "es": "Mensage de prueba"
+      },
+      "message_type": "success",
+      "updated_at": "2019-09-14T17:27:52.120Z"
+    }
+  ]
+}
